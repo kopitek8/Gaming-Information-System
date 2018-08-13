@@ -1,0 +1,33 @@
+GAMING INFFORMATION SYSTEM---HELP BOOK:
+
+ADDING DATA:
+1)You can add game data through data entry panel.
+	The list of data that you can add are:
+	i) Game ID
+	ii) Game Name
+	iii)Price
+	iV) Genre of the game
+	v) Platform of the game
+	vI) Rating of the game
+
+2)After entering the game data, you have to press the Add button.
+	Remember, i) Do not leave the fields blank
+		  ii)Do not enter string value for price
+
+3) After pressing add, your data will be displayed in the game detail
+table.
+
+SEARCHING THROUGH THE DISPLAYED DATA:
+
+1) You can search through the entered data in two ways:
+	i) By Genre:
+		Just select the genre in the combo box and click on 
+		"Search Available Games" to see which games are 
+		available in the genre.
+	ii) By Price:
+		Enter your desired price in the given text field and 
+		click on search button to see the game that is available 
+		in that price. 
+
+
+
